@@ -1,1 +1,1 @@
-This is second commit in file2. this is third file2.
+This is second commit in file2. this is third file2. this is 4th commit in file2.
